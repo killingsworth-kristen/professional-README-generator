@@ -8,10 +8,11 @@ In order to run this application, you need to have Node.js installed. Once you h
 
 ## Usage
 Once you have the terminal open you run <code>node index.js</code> to run the application. It will give you a series of prompts in the console, which you type your responses to and hit enter to move to the next prompt. Once all prompts have been answered, you will see "Success!" logged in the console and a new markdown file will have been created based on your responses. 
-![](./Professional%20README%20Generator%20DEMO.webm)
+
+![Video Demo](./Professional%20README%20Generator%20DEMO.webm)
 
 ## Credits
-WHile starter code was provided for this project by the Univeristy of Washington bootcamp, i opted not to use it as I felt that it was more of a hinderance than a help. 
+While starter code was provided for this project by the Univeristy of Washington bootcamp, I opted not to use it as I felt that it was more of a hinderance than a help. 
 
 ## License
 MIT
